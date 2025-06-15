@@ -1,0 +1,2 @@
+# AI quotes generator
+
