@@ -7,7 +7,7 @@ A sleek and minimalist React.js web app that displays inspirational quotes using
 ---
 ## 📸 Live Preview
 
-> [Visit the live site](https://your-deployment-url.com)
+> [Visit the live site](https://aiquotegenerator1.netlify.app/)
 
 ---
 ![AI Quotes Generator Screenshot](https://github.com/user-attachments/assets/6844d83c-1573-48a3-aa86-dd4821dcb615)
