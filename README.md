@@ -39,7 +39,7 @@ A sleek and minimalist React.js web app that displays inspirational quotes using
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/vedantkankate/ai-quotes-generator.git
+git clone https://github.com/vedant2402/ai-quotes-generator.git
 cd ai-quotes-generator
 ```
 ### 2. Install dependencies
