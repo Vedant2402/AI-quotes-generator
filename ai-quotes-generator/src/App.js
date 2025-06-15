@@ -83,6 +83,13 @@ function App() {
           </div>
         )}
       </div>
+      <footer className="footer">
+        <p>
+          Made with ❤️ by <strong>Vedant Kankate</strong> ·
+          <a href="https://vedant-kankate.netlify.app/" target="_blank" rel="noopener noreferrer"> Portfolio</a> ·
+          <a href="https://github.com/vedant2402" target="_blank" rel="noopener noreferrer"> GitHub</a>
+        </p>
+      </footer>
     </div>
   );
 }
